@@ -10,7 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-var obj = {[itemName]: name, [itemPrice]: price}
+var obj = {[itemName]: itemPrice};
+
 }
 
 function viewCart() {
